@@ -133,7 +133,7 @@ else:  # Single Record Prediction
                     "action": "Loyalty rewards, subscription offers"
                 },
                 3: {
-                    "label": "Loyal High-Spenders",
+                    "label": "High-Spenders",
                     "desc": "Frequent big spenders",
                     "stats": "10+ orders, $1619+ spend, <18 days recency",
                     "action": "VIP treatment"
